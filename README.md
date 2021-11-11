@@ -1,2 +1,2 @@
 # PCF_keypad
-Read a 4x4 keypad with Arduino and PCF8574
+Read a 4x4 keypad with PCF8574 for Arduino and Python
